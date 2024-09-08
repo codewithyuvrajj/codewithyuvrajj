@@ -3,7 +3,7 @@
 
 - 🌱 **Currently learning:** Data Analysis with Python, MySql, PowerBI
 - 💼 **Professionally:** Ex-product marketing intern an Snapdeal Acevector Group Pvt. Ltd. 
-- 💡 **Fun fact:** I’m a coffee enthusiast and and can do better coding with it!😄]
+- 💡 **Fun fact:** I’m a coffee enthusiast and can do better coding with it!😄]
 - 🎨 **Side Projects:** Some of my projects are uploaded here. 
 - 📔 **Languages:** Python, SQL
 - 🔩 **Tools:** Visual Studio Code, Spyder, MySql, PowerBI
